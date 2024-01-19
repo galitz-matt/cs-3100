@@ -1,4 +1,3 @@
-# CS-3100
+# CS 3100: Data Structures and Algorithms 2
 
-These are assignnments from UVA's "Data Structures and Algorithms 2" class.
-We studied and applied BFS, DFS, Prim's, Dijkstra's, Kruskal's, DAC, Greedy algos, DP, Network Flow/Ford-Fulkerson/Min-Cut, etc. 
+This is a repository of assignments completed in UVA's CS 3100 course.
